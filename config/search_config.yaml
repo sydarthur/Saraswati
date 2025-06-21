@@ -1,7 +1,14 @@
 # Example search configuration
-query: "climate change adaptation"
-from_year: 2015
-to_year: 2023
+query: "delivery platforms"
+start_year: 2015
+end_year: 2023
+max_results: 500
+fields:
+  - title
+  - authors
+  - year
+  - venue
+  - abstract
+  - url
 journals:
-  - "Nature Climate Change"
-  - "Global Environmental Change"
+  - "Journal of Operations Management"
