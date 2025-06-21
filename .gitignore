@@ -1,0 +1,9 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore IDE configuration
+.idea/
+
+# Ignore generated data files but keep placeholder
+/data/*
+!data/.gitkeep
