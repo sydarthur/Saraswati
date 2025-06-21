@@ -1,0 +1,7 @@
+# Example search configuration
+query: "climate change adaptation"
+from_year: 2015
+to_year: 2023
+journals:
+  - "Nature Climate Change"
+  - "Global Environmental Change"
